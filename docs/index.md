@@ -175,6 +175,12 @@ features:
     details: 版本BE1.21.2 类商业服 </br>这个星球上，有的地方“朱门酒肉臭，路有冻死骨”，有的地方“受命于天，既寿永昌”，有的地方“把生命献给人民解放的事业”，有的地方“以阶级斗争为纲”......但这些地方的人们都有一个共同的梦想:富强。</br>危机四伏的世界里，如何脱颖而出，成为世界之巅？</br>诚邀广大国际版玩家加入《方块风云2》我的世界基岩版1.21.2国战模拟服务器的大家庭。</br>听歌｜货币｜签到｜装备品质｜精英怪｜菜单｜反作弊｜头衔｜国战｜世界地图｜...
     link: http://bdmc.framer.website
     linkText: 前往官网
+  - icon:
+      src: /server_icons/farm.jpg
+    title: SWA Network 子服 / SWANET Farm粘液科技
+    details: 版本：JAVA 1.20.1 BE可互通 / 公益服</br>Minecraft服务器，粘液科技， is on SWA Network Farm,请各位还活着玩家们加入服务器，一起建设全新的SWANET Farm
+    link: https://mcsite.npqvq.icu
+    linkText: 去！开直升飞机坠去官网！
 ---
 <script>
 export default {
